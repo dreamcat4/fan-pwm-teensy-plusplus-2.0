@@ -1,4 +1,4 @@
-# fan-pwm
+# fan-pwm teensy++ 2.0
 
 Combines other Arduino sketches, plus extra work. Towards a better fan pwm control, for teensy++ 2.0
 
