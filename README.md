@@ -1,6 +1,6 @@
-# arduino-fan-pwm
+# fan-pwm
 
-Combines other Arduino sketches, plus extra work. Towards a better fan pwm control, for arduino uno atmega328p
+Combines other Arduino sketches, plus extra work. Towards a better fan pwm control, for teensy++ 2.0
 
 <!-- MarkdownTOC -->
 
